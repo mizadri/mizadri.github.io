@@ -1,7 +1,7 @@
 # Site
 title:              Dual markdown
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Project to create dual-language teaching content'
+description:        "Project to create dual-language teaching content"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
