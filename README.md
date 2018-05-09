@@ -1,60 +1,36 @@
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip) and save it to any folder you want.
+I have made this into a Jekyll Theme.
+**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/).
 
-Open a terminal window or a command line and ```cd``` to that location.
+The default theme would look like this:
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
+The theme is responsive:
 
-### Formspring.io Integration
-Formspring is supported out of the box! Just add your email to ```_config.yml```
+![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
+There are 6 color schemes available:
 
-## Credits
-### Original README from HTML5 UP
-```
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+| Default | Style 2 | Style 3 |
+|---------|---------|---------|
+| <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" width="300"/> |
 
+| Style 4 | Style 5 | Style 6 |
+|---------|---------|---------|
+| <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300"/> |
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Installation
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/online-cv/
 
-(* = not included)
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-AJ
-aj@lkn.io | @ajlkn
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-```
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
